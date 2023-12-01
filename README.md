@@ -14,11 +14,11 @@
     <strong>Education</strong>
   </h2>
   <p>
-    <strong>M.Sc. Computational Mechanics</strong> (December 2023)<br>
-    Deutschland &mdash; Technische Universit&aumlt of M&uumlnchen
+    <strong>M.Sc. Computational Mechanics</strong><br>
+    Deutschland &mdash; Technische Universit&auml;t of M&uuml;nchen
   </p>
   <p>
-    <strong>B.Sc. Mechanical Engineering</strong> (June 2018)<br>
+    <strong>B.Sc. Mechanical Engineering</strong><br>
     Indonesia &mdash; Bandung Institute of Technology
   </p>
 </div>
