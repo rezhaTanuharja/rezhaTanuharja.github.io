@@ -1,41 +1,9 @@
 <h1 align="left">
-  Simulation Engineer and Data Enthusiast
+  Simulation Engineer &mdash; Data Enthusiast
 </h1>
 <p>
-  <a href="#education">Education</a>
-  •
-  <a href="#work-experience">Work Experience</a>
-  •
   <a href="#projects">Projects</a>
 </p>
-
-<div id="education">
-  <h2>
-    <strong>Education</strong>
-  </h2>
-  <p>
-    <strong>M.Sc. Computational Mechanics</strong><br>
-    Deutschland &mdash; Technische Universit&auml;t of M&uuml;nchen
-  </p>
-  <p>
-    <strong>B.Sc. Mechanical Engineering</strong><br>
-    Indonesia &mdash; Bandung Institute of Technology
-  </p>
-</div>
-
-<div id="work-experience">
-  <h2>
-    <strong>Work Experience</strong>
-  </h2>
-  <p>
-    <strong>Process Engineer and Surveillance Team Lead</strong><br>
-    Indonesia &mdash; ExxonMobil
-  </p>
-  <p>
-    <strong>Mechanical Engineer</strong><br>
-    Indonesia &mdash; ExxonMobil
-  </p>
-</div>
 
 <div id="projects">
   <h2>

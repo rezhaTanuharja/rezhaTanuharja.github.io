@@ -1,3 +1,13 @@
-title: Rezha Adrian Tanuharja
-show_downloads: true
+title: Rezha Tanuharja
+show_downloads: false
 theme: jekyll-theme-minimal
+
+collections:
+  education:
+  experience:
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "portfolio"
