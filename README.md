@@ -9,6 +9,7 @@
         <p>
             <strong>{{ project.title }}</strong> &mdash;
             {{ project.languages }}<br>
+            <a href="{{ project.link }}" target="_blank"><small>view repository</small></a>
             {{ project.excerpt }}
         </p>
     {% endfor %}
