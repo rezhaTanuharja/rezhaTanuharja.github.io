@@ -53,8 +53,7 @@
         <h3>
           <strong>Experience</strong>
         </h3>
-        {% assign sortedExperience = site.experience | sort: 'order' | reverse %}
-        {% for item in sortedExperience %}
+        {% for item in site.data.experience %}
           <p>
             <strong>{{ item.position }}</strong><br>
             {{ item.company }}<br>
@@ -66,8 +65,7 @@
         <h3>
           <strong>Education</strong>
         </h3>
-        {% assign sortedEducation = site.education | sort: 'order' | reverse %}
-        {% for item in sortedEducation %}
+        {% for item in site.data.education %}
           <p>
             <strong>{{ item.program }}</strong><br>
             {{ item.institution }}<br>
